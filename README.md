@@ -1,5 +1,8 @@
 ## F-Rev
+<span>Working On Python3</span>
 
 ```bash
-Working On Python3
+If u use cli version u mush have installed
+-termcolor
+-requests
 ```
